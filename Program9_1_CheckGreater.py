@@ -1,0 +1,1 @@
+#Write a program which contains one function ChkGreater() that accepts two numbers and prints the grater number
