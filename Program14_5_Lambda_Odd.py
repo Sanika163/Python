@@ -1,0 +1,1 @@
+# Write a lambda function which accepts one number and returns True if number is Odd otherwise False
