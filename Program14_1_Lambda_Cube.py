@@ -1,1 +1,0 @@
-# Write a lambda function which accepts one number and returns sqaure of that number
